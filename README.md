@@ -15,3 +15,4 @@ For the first assignment you will need to create a basic webpage using the HTML 
 - An image
 
 All of the numbers above are minimums, feel free to include more than that if you would like. Remember, don't just create a directory for your assignment. You'll need to clone your assignment repo first and then begin your work. If you need a refresher on git and GitHub classroom there is a document in D2L. When you're done, be sure to enable GitHub pages for the repo and submit the link to the quiz in D2L.
+
